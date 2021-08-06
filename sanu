@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
-   // printf() displays the string inside 
+   // printf() displays the string
    printf("Hello, World!");
    
 }
